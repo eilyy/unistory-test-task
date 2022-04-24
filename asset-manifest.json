@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/eilyy.github.io/unistory-test-task/static/css/main.3c12edc4.css",
-    "main.js": "/eilyy.github.io/unistory-test-task/static/js/main.8e7de461.js",
+    "main.js": "/eilyy.github.io/unistory-test-task/static/js/main.aa005001.js",
     "static/js/787.91bdd333.chunk.js": "/eilyy.github.io/unistory-test-task/static/js/787.91bdd333.chunk.js",
     "index.html": "/eilyy.github.io/unistory-test-task/index.html",
     "main.3c12edc4.css.map": "/eilyy.github.io/unistory-test-task/static/css/main.3c12edc4.css.map",
-    "main.8e7de461.js.map": "/eilyy.github.io/unistory-test-task/static/js/main.8e7de461.js.map",
+    "main.aa005001.js.map": "/eilyy.github.io/unistory-test-task/static/js/main.aa005001.js.map",
     "787.91bdd333.chunk.js.map": "/eilyy.github.io/unistory-test-task/static/js/787.91bdd333.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3c12edc4.css",
-    "static/js/main.8e7de461.js"
+    "static/js/main.aa005001.js"
   ]
 }
