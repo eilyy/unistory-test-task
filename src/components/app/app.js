@@ -13,7 +13,7 @@ const App = (props) => {
         if(Object.values(notes).length === 0) {
             setNotes(props.NotesService.notesList);
         }
-    }, []);
+    }, [notes, props.NotesService.notesList]);
 
     return (
         <Router>

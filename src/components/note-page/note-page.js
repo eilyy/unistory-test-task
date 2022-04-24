@@ -33,7 +33,6 @@ const NotePage = (props) => {
         props.setNotes(prevState => {
             const newNotes = {...prevState};
             delete newNotes[id];
-            console.log(newNotes);
             return newNotes;
         });
     }
