@@ -1,0 +1,37 @@
+.NotePage {
+  padding-top: 50px;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+  min-height: 100vh;
+  max-width: 900px;
+}
+.NotePage__backBtn {
+  display: block;
+  width: 150px;
+  height: 50px;
+}
+.NotePage__titleInput {
+  display: block;
+  width: 100%;
+  height: 50px;
+  box-sizing: border-box;
+}
+.NotePage__contentInput {
+  width: 100%;
+  height: 300px;
+  box-sizing: border-box;
+  resize: none;
+}
+.NotePage__btnContainer {
+  display: flex;
+  justify-content: flex-end;
+  gap: 20px;
+}
+.NotePage__btn {
+  width: 100px;
+  height: 50px;
+}
+
+/*# sourceMappingURL=note-page.css.map */

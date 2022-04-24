@@ -1,0 +1,40 @@
+.NotePage {
+  padding-top: 50px;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+  min-height: 100vh;
+  max-width: 900px;
+
+  &__backBtn {
+    display: block;
+    width: 150px;
+    height: 50px;
+  }
+
+  &__titleInput {
+    display: block;
+    width: 100%;
+    height: 50px;
+    box-sizing: border-box;
+  }
+
+  &__contentInput {
+    width: 100%;
+    height: 300px;
+    box-sizing: border-box;
+    resize: none;
+  }
+
+  &__btnContainer {
+    display: flex;
+    justify-content: flex-end;
+    gap: 20px;
+  }
+
+  &__btn {
+    width: 100px;
+    height: 50px;
+  }
+}

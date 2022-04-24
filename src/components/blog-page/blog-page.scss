@@ -1,0 +1,17 @@
+.BlogPage {
+  text-align: center;
+  min-height: 100vh;
+
+  &__header {
+    padding: 50px 0;
+    margin: 0;
+  }
+
+  &__createBtn {
+    position: fixed;
+    bottom: 50px;
+    right: 50px;
+    width: 100px;
+    height: 30px;
+  }
+}

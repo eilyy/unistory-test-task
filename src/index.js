@@ -1,13 +1,18 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
-import App from './App';
+import App from './components/app/app';
 import reportWebVitals from './reportWebVitals';
+import NotesService from "./services/notes-service/notes-service";
+import NotesContext from "./components/context/notes-context";
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
+const notesService = new NotesService();
 root.render(
   <React.StrictMode>
-    <App />
+    <NotesContext.Provider value={notesService}>
+      <App />
+    </NotesContext.Provider>
   </React.StrictMode>
 );
 

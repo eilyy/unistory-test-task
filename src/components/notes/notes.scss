@@ -1,0 +1,15 @@
+.Notes {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, 300px);
+  justify-content: space-between;
+  max-width: 1000px;
+  row-gap: 75px;
+  padding: 0 50px;
+  margin: 0 auto;
+}
+
+@media (max-width: 699px) {
+  .Notes {
+    justify-content: center;
+  }
+}
