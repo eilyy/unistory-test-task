@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/unistory-test-task/static/css/main.3c12edc4.css",
-    "main.js": "/unistory-test-task/static/js/main.d934fba8.js",
+    "main.js": "/unistory-test-task/static/js/main.cd2535b5.js",
     "static/js/787.91bdd333.chunk.js": "/unistory-test-task/static/js/787.91bdd333.chunk.js",
     "index.html": "/unistory-test-task/index.html",
     "main.3c12edc4.css.map": "/unistory-test-task/static/css/main.3c12edc4.css.map",
-    "main.d934fba8.js.map": "/unistory-test-task/static/js/main.d934fba8.js.map",
+    "main.cd2535b5.js.map": "/unistory-test-task/static/js/main.cd2535b5.js.map",
     "787.91bdd333.chunk.js.map": "/unistory-test-task/static/js/787.91bdd333.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3c12edc4.css",
-    "static/js/main.d934fba8.js"
+    "static/js/main.cd2535b5.js"
   ]
 }
