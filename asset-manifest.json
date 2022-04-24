@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/eilyy.github.io/unistory-test-task/static/css/main.3c12edc4.css",
-    "main.js": "/eilyy.github.io/unistory-test-task/static/js/main.3a820e03.js",
-    "static/js/787.91bdd333.chunk.js": "/eilyy.github.io/unistory-test-task/static/js/787.91bdd333.chunk.js",
-    "index.html": "/eilyy.github.io/unistory-test-task/index.html",
-    "main.3c12edc4.css.map": "/eilyy.github.io/unistory-test-task/static/css/main.3c12edc4.css.map",
-    "main.3a820e03.js.map": "/eilyy.github.io/unistory-test-task/static/js/main.3a820e03.js.map",
-    "787.91bdd333.chunk.js.map": "/eilyy.github.io/unistory-test-task/static/js/787.91bdd333.chunk.js.map"
+    "main.css": "/unistory-test-task/static/css/main.3c12edc4.css",
+    "main.js": "/unistory-test-task/static/js/main.d934fba8.js",
+    "static/js/787.91bdd333.chunk.js": "/unistory-test-task/static/js/787.91bdd333.chunk.js",
+    "index.html": "/unistory-test-task/index.html",
+    "main.3c12edc4.css.map": "/unistory-test-task/static/css/main.3c12edc4.css.map",
+    "main.d934fba8.js.map": "/unistory-test-task/static/js/main.d934fba8.js.map",
+    "787.91bdd333.chunk.js.map": "/unistory-test-task/static/js/787.91bdd333.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3c12edc4.css",
-    "static/js/main.3a820e03.js"
+    "static/js/main.d934fba8.js"
   ]
 }
