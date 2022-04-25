@@ -9,11 +9,8 @@ const CreateNote = (props) => {
         if(post.title && post.content) {
             props.setShowModal(false);
             const id = props.NotesService.generateId();
-            const newNote = {...post, id};
+            const newNote = {...post, id: Number.parseInt(id)};
             props.NotesService.addNote(id, newNote);
-            props.setNotes(prevState => {
-                return {...prevState, id: newNote};
-            });
         }
     }
 

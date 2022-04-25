@@ -19,7 +19,7 @@ const App = (props) => {
         <Router>
           <div className="App">
               <Routes>
-                  <Route exact path="/" element={<BlogPage notes={notes} setNotes={setNotes}/>} title="Блог"/>
+                  <Route exact path="/" element={<BlogPage notes={notes}/>} title="Блог"/>
                   <Route path="/:id" element={<NotePage notes={notes} setNotes={setNotes}/>} title="Блог"/>
               </Routes>
           </div>

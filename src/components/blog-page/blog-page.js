@@ -11,7 +11,7 @@ const BlogPage = (props) => {
             <h1 className="BlogPage__header">Блог</h1>
             <Notes notes={Object.values(props.notes)}/>
             <button className="BlogPage__createBtn" onClick={() => setShowModal(true)}>+ Добавить</button>
-            <CreateNote setNotes={props.setNotes} showModal={showModal} setShowModal={setShowModal}/>
+            <CreateNote showModal={showModal} setShowModal={setShowModal}/>
         </div>
     )
 }
